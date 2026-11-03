@@ -3,6 +3,6 @@
 ```
 mkdir NocturnalRTOS   
 cd NocturnalRTOS   
-repo init -u https://github.com/Data-Frog-Central/NocturnalRTOS-Manifest  
+repo init -u https://github.com/Data-Frog-Central/NocturnalRTOS-Manifest -b stable  
 repo sync   
 ```
