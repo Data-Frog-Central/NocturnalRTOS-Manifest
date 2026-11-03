@@ -16,8 +16,8 @@
     <project name="HC-RTOS-lvgl" path="components/liblvgl/source/lvgl" revision="release/v8.3"/>
     <project name="lua" remote="lua" path="components/lua/source/lua" revision="7579fc9d7ed90240487251dfb69168f8e64e9294"/>
     <project name="libretro-common" path="components/libretro_common/source/libretro-common" revision="master"/>
-    <project name="Argent-Loader" path="components/argent_loader/source"/>
-    <project name="Argent-Cores" path="components/argent_loader/source/argent-cores"/>
+    <project name="Argent-Loader" path="components/argent_loader/source" revision="83dc7c80a8e5811adcac8339f00410b620e992f9"/>
+    <project name="Argent-Cores" path="components/argent_loader/source/argent-cores" revision="cd0e8a43c110c1576730aa012e53a280eee81742"/>
     <project name="zip" remote="kuba" path="components/applications/apps-phobos/source/libs/zip" revision="master"/>
 
 </manifest>
