@@ -6,4 +6,5 @@
 [libretro-common](https://github.com/Data-Frog-Central/libretro-common)  
 [Argent-Loader](https://github.com/Data-Frog-Central/Argent-Loader)  
 [Argent-Cores](https://github.com/Data-Frog-Central/Argent-Cores)  
+[Helix-Modules](https://github.com/Data-Frog-Central/Helix-Modules)  
 [zip](https://github.com/kuba--/zip)  

@@ -18,6 +18,7 @@
     <project name="libretro-common" path="components/libretro_common/source/libretro-common" revision="master"/>
     <project name="Argent-Loader" path="components/argent_loader/source"/>
     <project name="Argent-Cores" path="components/argent_loader/source/argent-cores"/>
+    <project name="Helix-Modules" path="components/helix_modules/source/helix_modules"/>
     <project name="zip" remote="kuba" path="components/applications/apps-phobos/source/libs/zip" revision="master"/>
 
 </manifest>
