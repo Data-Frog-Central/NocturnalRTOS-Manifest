@@ -19,6 +19,6 @@
     <project name="Argent-Loader" path="components/argent_loader/source"/>
     <project name="Argent-Cores" path="components/argent_loader/source/argent-cores"/>
     <project name="Helix-Modules" path="components/helix_modules/source/helix_modules"/>
-    <project name="zip" remote="kuba" path="components/applications/apps-phobos/source/libs/zip" revision="master"/>
+    <project name="zip" remote="kuba" path="components/zip/source/zip" revision="master"/>
 
 </manifest>
